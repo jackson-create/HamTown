@@ -1,0 +1,25 @@
+{
+  "name": "Kotlin for Forge",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ordsPcFz",
+      "slug": "kotlin-for-forge",
+      "versionId": "9ZlVvei8",
+      "versionNumber": "5.13.0",
+      "filename": "kotlinforforge-5.13.0-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ordsPcFz/versions/9ZlVvei8/kotlinforforge-5.13.0-all.jar",
+      "sha1": "b1d5563f4e3db9ec4a4a2b371560aa171d6de237",
+      "sha512": "64a26f73e3299ad09b350d3421e3f97a5ccd158d1936fb50fc57f3c88bf6fd33814568bf43a0886f79ada4be65d65d232d9e20a901833150ec5b89a01c46d459",
+      "fileSize": 7364729
+    }
+  },
+  "dependents": [
+    "hYykXjDp"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

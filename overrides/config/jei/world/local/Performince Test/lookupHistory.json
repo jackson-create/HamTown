@@ -1,0 +1,18 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"nomansland:awkward_residue"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:quartzite_cluster"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:budding_quartzite"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:walnuts"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:maple_syrup_bottle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:resin"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:hardtack"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:smoker"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:large_stellar_tile"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"vanity:styling_table"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:netherite_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:diamond_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:gold_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:iron_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"justhammers:stone_hammer"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

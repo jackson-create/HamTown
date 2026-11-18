@@ -1,0 +1,23 @@
+{
+  "name": "Display Delight",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "yXepZhp8",
+      "slug": "display-delight",
+      "versionId": "xiS3GrrW",
+      "versionNumber": "1.7.0",
+      "filename": "displaydelight-1.7.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/yXepZhp8/versions/xiS3GrrW/displaydelight-1.7.0.jar",
+      "sha1": "0d2040a348a1d42907561babff9ac983c466b825",
+      "sha512": "6409537fe29b483998aff0f24920936ca72c2840f6d7ba887e0da9f303cd4f6a6c88917ea0874fc7180dca6f5beb74d5af5d54be9d383b7e7b12dd667178ffe3",
+      "fileSize": 1144367
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

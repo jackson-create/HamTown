@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"nomansland:shelf_mushroom"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:egg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:string"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:bow"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

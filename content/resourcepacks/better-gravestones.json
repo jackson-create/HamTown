@@ -1,0 +1,22 @@
+{
+  "name": "Better Gravestones",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1189749",
+      "slug": "better-gravestones",
+      "versionId": "7388827",
+      "versionNumber": "Better Gravestones 1.1.zip",
+      "filename": "Better Gravestones 1.1.zip",
+      "downloadUrl": "https://edge.forgecdn.net/files/7388/827/Better%20Gravestones%201.1.zip",
+      "sha1": "a870c1e89fc2ce8e313979677bd069c6f024d854",
+      "fileSize": 17405
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

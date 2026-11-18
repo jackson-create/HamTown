@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"farmersdelight:rope"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"nomansland:crude_door"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

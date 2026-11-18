@@ -1,0 +1,23 @@
+{
+  "name": "Dungeons and Taverns Woodland Mansion Overhaul",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "3GfxWFCy",
+      "slug": "dungeons-and-taverns-woodland-mansion-overhaul",
+      "versionId": "LEkxbqdY",
+      "versionNumber": "v1.2+mod",
+      "filename": "dungeons-and-taverns-woodland-mansion-replacement-v1.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/3GfxWFCy/versions/LEkxbqdY/dungeons-and-taverns-woodland-mansion-replacement-v1.2.jar",
+      "sha1": "fbf5a14273a59efacbef3d23ab358eafa69ab13d",
+      "sha512": "3cf6db9880c73281aae73640c414b88d08a9f33658fd6db772bf4f56b9327696bee5850b1fcce092893a575f81b2a6a6817ad34587a3bd32e83f55b2eca30619",
+      "fileSize": 4687725
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "required"
+}

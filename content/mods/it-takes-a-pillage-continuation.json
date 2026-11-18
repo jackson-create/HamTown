@@ -1,0 +1,23 @@
+{
+  "name": "It Takes a Pillage Continuation",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QOJOg1gE",
+      "slug": "it-takes-a-pillage-continuation",
+      "versionId": "m8qvxZIS",
+      "versionNumber": "neoforge-1.0.13+mc1.21.1",
+      "filename": "takesapillage-neoforge-1.0.13+mc1.21.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QOJOg1gE/versions/m8qvxZIS/takesapillage-neoforge-1.0.13%2Bmc1.21.1.jar",
+      "sha1": "5bd588f08b8a6e783d8dc20860373e8b01f8e2df",
+      "sha512": "cc0d566d80f6da915795382561f0c57d611f0c1a28f82520b6606850cb282dc7168becfdea485076a0d45631bfbaaa7287ebc27a2824a94b50ab619a51aefeab",
+      "fileSize": 2785614
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

@@ -1,0 +1,106 @@
+# SteamedHams Mothership
+
+**Minecraft 1.21.1 · NeoForge 21.1.252**, 89 mods, 5 resource packs, 4 shaders
+
+## Contents
+
+- [Abundant Atmosphere](https://modrinth.com/project/abundant-atmosphere) `1.21.1-2.0.0-beta2.1`
+- [Amendments](https://modrinth.com/project/amendments) `1.21-2.2.7`
+- [AppleSkin](https://modrinth.com/project/appleskin) `3.0.9+mc1.21`
+- [Architectury API](https://modrinth.com/project/architectury-api) `13.0.12+neoforge`
+- [BadOptimizations](https://modrinth.com/project/badoptimizations) `2.4.1`
+- [Better Days](https://modrinth.com/project/betterdays) `1.21.1-3.3.6.3-NEOFORGE`
+- [Better Gravestones](https://www.curseforge.com/projects/1189749) `Better Gravestones 1.1.zip`
+- [Biolith](https://modrinth.com/project/biolith) `3.0.14`
+- [Blueprint](https://modrinth.com/project/blueprint) `8.2.0`
+- [Brewin' And Chewin'](https://modrinth.com/project/brewin-and-chewin) `4.5.0+1.21.1-neoforge`
+- [Caverns & Chasms](https://modrinth.com/project/caverns-and-chasms) `3.0.1`
+- [Chalk](https://modrinth.com/project/chalk-mod) `2.0.3`
+- [Clayworks](https://modrinth.com/project/clayworks) `4.0.3`
+- [Cloth Config API](https://modrinth.com/project/cloth-config) `15.0.140+neoforge`
+- [Complementary Shaders - Unbound](https://modrinth.com/project/complementary-unbound) `r5.9.3`
+- [Continents](https://modrinth.com/project/continents) `1.1.14`
+- [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
+- [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
+- [Display Delight](https://modrinth.com/project/display-delight) `1.7.0`
+- [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
+- [Dungeons and Taverns Nether Fortress Overhaul](https://modrinth.com/project/dungeons-and-taverns-nether-fortress-overhaul) `2.5.1+mod`
+- [Dungeons and Taverns Pillager Outpost Overhaul](https://modrinth.com/project/dungeons-and-taverns-pillager-outpost-overhaul) `v2.2+mod`
+- [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/project/dungeons-and-taverns-stronghold-overhaul) `v2.1.f+mod`
+- [Dungeons and Taverns Woodland Mansion Overhaul](https://modrinth.com/project/dungeons-and-taverns-woodland-mansion-overhaul) `v1.2+mod`
+- [Entity Culling](https://modrinth.com/project/entityculling) `1.12.1`
+- [Envelope](https://modrinth.com/project/envelope) `0.8.2`
+- [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.59`
+- [Explosive Enhancement: Reforged](https://modrinth.com/project/explosive-enhancement-forge) `1.2.0`
+- [Farcr's Better Dirt](https://modrinth.com/project/farcrs-better-dirt) `V1.2`
+- [Farcr's Better Dirt - Modded Compat](https://modrinth.com/project/farcrs-better-dirt-modded-compat) `1.05`
+- [Farcr's Re-Crafted](https://modrinth.com/project/farcrs-re-crafted) `2.28.1`
+- [Farmer's Delight](https://modrinth.com/project/farmers-delight) `1.21.1-1.3.4`
+- [FerriteCore](https://modrinth.com/project/ferrite-core) `7.0.3-neoforge`
+- [Firefly Bush Backport](https://modrinth.com/project/firefly-bush-backport) `1.1.1`
+- [Fishermen's Trap [Neo/Fabric]](https://modrinth.com/project/fishermens-trap) `3.1.0`
+- [Fragmentum](https://modrinth.com/project/fragmentum) `5.4.0`
+- [Fzzy Config](https://modrinth.com/project/fzzy-config) `0.7.7+fix1+1.21+neoforge`
+- [Geckolib](https://modrinth.com/project/geckolib) `4.9.3`
+- [GraveStone Mod](https://modrinth.com/project/gravestone-mod) `neoforge-1.21.1-1.0.40`
+- [Handcrafted](https://modrinth.com/project/handcrafted) `4.0.3`
+- [Horseman](https://modrinth.com/project/horseman) `1.5.13`
+- [I Like Vanilla](https://modrinth.com/project/i-like-vanilla) `v1.5.0`
+- [ImmediatelyFast](https://modrinth.com/project/immediatelyfast) `1.6.15+1.21.1-neoforge`
+- [Incubation](https://modrinth.com/project/incubation) `5.0.2`
+- [Iris Shaders](https://modrinth.com/project/iris) `1.8.14-beta.1+1.21.1-neoforge`
+- [It Takes a Pillage Continuation](https://modrinth.com/project/it-takes-a-pillage-continuation) `neoforge-1.0.13+mc1.21.1`
+- [Jade 🔍](https://modrinth.com/project/jade) `15.10.6+neoforge`
+- [Just Enough Items (JEI)](https://modrinth.com/project/jei) `19.70.0.469`
+- [Kotlin for Forge](https://modrinth.com/project/kotlin-for-forge) `5.13.0`
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/project/lambdynamiclights) `4.8.11+1.21.1`
+- [Lithium](https://modrinth.com/project/lithium) `mc1.21.1-0.15.4-neoforge`
+- [Lithostitched](https://modrinth.com/project/lithostitched) `1.8.1-neoforge-21.1`
+- [Lodestone](https://modrinth.com/project/lodestonelib) `1.8.2`
+- [MakeUp - Ultra Fast](https://modrinth.com/project/makeup-ultra-fast-shaders) `9.5f`
+- [Mandala's GUI - Dark mode](https://modrinth.com/project/mandalas-gui-dark-mode) `2.1`
+- [MezzConfig](https://modrinth.com/project/mezzconfig) `0.7.1`
+- [Miner's Delight](https://modrinth.com/project/miners-delight) `1.4.5`
+- [ModernFix](https://modrinth.com/project/modernfix) `5.27.27+mc1.21.1`
+- [Moonlight Lib](https://modrinth.com/project/moonlight) `1.21.1-3.8.3`
+- [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.21-2.26.1-neoforge`
+- [MRU](https://modrinth.com/project/mru) `1.0.41+1.21.1-neoforge`
+- [My Nether's Delight](https://modrinth.com/project/my-nethers-delight) `1.10.4.1`
+- [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
+- [NoFun DnT](https://modrinth.com/project/nofun-dnt) `1.1+mod`
+- [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.7`
+- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+1.21.1-neoforge`
+- [Platform](https://modrinth.com/project/platform) `1.4.2`
+- [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
+- [Portable Hole](https://modrinth.com/project/portable-hole) `v21.1.0-1.21.1-NeoForge`
+- [Potato Shaders](https://modrinth.com/project/potato-shaders) `1.0d`
+- [Puzzles Lib](https://modrinth.com/project/puzzles-lib) `21.1.66`
+- [Quark](https://modrinth.com/project/quark) `4.1-488`
+- [Realm RPG: Fallen Adventurers](https://modrinth.com/project/realm-rpg-fallen-adventurers) `1.1.0`
+- [Reliable Backpacks](https://modrinth.com/project/reliable-backpacks) `1.9.1-1.21.1-neoforge`
+- [Resourceful Lib](https://modrinth.com/project/resourceful-lib) `3.0.12`
+- [Sable](https://modrinth.com/project/sable) `2.0.6+mc1.21.1`
+- [Sawmill](https://modrinth.com/project/universal-sawmill) `1.21-1.9.0`
+- [Shoulder Surfing Reloaded](https://modrinth.com/project/shoulder-surfing-reloaded) `1.21.1-5.3.1+neoforge`
+- [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
+- [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
+- [Sooty Chimneys](https://modrinth.com/project/sooty-chimneys) `1.3.5`
+- [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
+- [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
+- [Stony Cliffs Are Cool](https://modrinth.com/project/stony-cliffs-are-cool) `1.1.2`
+- [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`
+- [Stormie's Spiders](https://modrinth.com/project/stormies-spiders) `3.3.2-neoforge`
+- [Supplementaries](https://modrinth.com/project/supplementaries) `1.21.1-4.1.3`
+- [TerraBlender](https://modrinth.com/project/terrablender) `4.1.0.8`
+- [Thief](https://modrinth.com/project/thief) `1.2.7`
+- [Tree Physics](https://modrinth.com/project/tree-physics) `neoforge-2.4`
+- [Underground Rivers](https://modrinth.com/project/underground-rivers) `1.0.3-neoforge-21.1`
+- [Vanity: Aesthetic Armory](https://modrinth.com/project/vanity-aesthetic-armory) `1.1.1`
+- [Vanity: Core](https://modrinth.com/project/vanity-core) `5.0.3`
+- [Vanity: Deep Forged](https://modrinth.com/project/vanity-deep-forged) `1.3`
+- [What Are They Up To (Watut)](https://modrinth.com/project/what-are-they-up-to) `1.21.0-1.2.7`
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/project/yacl) `3.8.2+1.21.1-neoforge`
+- [You've Goat to be Kidding Me](https://modrinth.com/project/goated) `1.21-1.4.4`
+- [Zeta](https://modrinth.com/project/zeta) `1.1-40`
+
+_Generated by packweave._

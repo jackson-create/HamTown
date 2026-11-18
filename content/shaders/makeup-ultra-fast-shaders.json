@@ -1,0 +1,23 @@
+{
+  "name": "MakeUp - Ultra Fast",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "izsIPI7a",
+      "slug": "makeup-ultra-fast-shaders",
+      "versionId": "IUFkxmHz",
+      "versionNumber": "9.5f",
+      "filename": "MakeUp-UltraFast-9.5f.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/izsIPI7a/versions/IUFkxmHz/MakeUp-UltraFast-9.5f.zip",
+      "sha1": "b3873dcc6b39093a6c13c2ec9c5d5eee90c06827",
+      "sha512": "86d7d21eea4eaa257a43896d639d8f8ea1709f721ea70092504d273c7c9b47a16ede605be99548dbebf8ead8749c1effe44e6f1724ecba884d67ef185fff51e4",
+      "fileSize": 403666
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

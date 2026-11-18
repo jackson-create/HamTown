@@ -1,0 +1,23 @@
+{
+  "name": "I Like Vanilla",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "DoODk4HD",
+      "slug": "i-like-vanilla",
+      "versionId": "u3V0lSfn",
+      "versionNumber": "v1.5.0",
+      "filename": "I Like Vanilla v1.5.0.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/DoODk4HD/versions/u3V0lSfn/I%20Like%20Vanilla%20v1.5.0.zip",
+      "sha1": "5d02c74d2a841e73e31c16d223b92218a02539b0",
+      "sha512": "b728becf76aedaca5002f076790ecec398c18293c45547e7c8b05b9e231ffed063a023733c66920e6937e3c875993e6066e7f37896572c3f260e05a924b65120",
+      "fileSize": 334420
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

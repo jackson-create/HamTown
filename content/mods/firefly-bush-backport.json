@@ -1,0 +1,23 @@
+{
+  "name": "Firefly Bush Backport",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "fWv64ug8",
+      "slug": "firefly-bush-backport",
+      "versionId": "E7uaYw5l",
+      "versionNumber": "1.1.1",
+      "filename": "firefly_bush_backport-1.21.1-1.1.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/fWv64ug8/versions/E7uaYw5l/firefly_bush_backport-1.21.1-1.1.1.jar",
+      "sha1": "5feeecfbdc11fec34fe6a1df930f96400124d0e8",
+      "sha512": "034e67507f2b3ec32f9da3c701c6a6c8286a2e0792ccf11047290365b8d84ec8f8764972742e6e580474e367651f968b30193ed4411a03bab837ff5192ab94bc",
+      "fileSize": 1268492
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

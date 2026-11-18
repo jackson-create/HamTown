@@ -1,0 +1,23 @@
+{
+  "name": "Farcr's Better Dirt - Modded Compat",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "JdCxKRxl",
+      "slug": "farcrs-better-dirt-modded-compat",
+      "versionId": "8OSOePmc",
+      "versionNumber": "1.05",
+      "filename": "Farcrs Better Dirt - Modded Compat.zip",
+      "downloadUrl": "https://cdn.modrinth.com/data/JdCxKRxl/versions/8OSOePmc/Farcrs%20Better%20Dirt%20-%20Modded%20Compat.zip",
+      "sha1": "8d3de7a93eb187760ec4be5a983e15c875b86a54",
+      "sha512": "3e15a261de7dfb84f2f8b103c20e7a351988990e16dfd0598af717b04585cd65668a04905fb993fd2c947052243a06d3828e09c8c607c5454ec4acf970374c84",
+      "fileSize": 52086
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

@@ -1,0 +1,7 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"newworld:tombstone"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"newworld:mattock_crafting_template_shaft"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"newworld:mattock_crafting_template_head"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"newworld:mattock_crafting_template"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
