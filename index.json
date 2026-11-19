@@ -698,7 +698,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "66689fffd03bf6f5b2b91ecdbc819779d4c05b32"
+      "sha1": "2dbbc257f906acfadcba765785d2d5397dcfd7e6"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -815,6 +815,10 @@
     {
       "path": "overrides/config/jei/world/local/Visual Test/lookupHistory.json",
       "sha1": "6d2f4b250ede6f057534ad24b3cfcae8eea9abd8"
+    },
+    {
+      "path": "overrides/config/jei/world/server/Steamed Hams (150_251_116_89 19000)/lookupHistory.json",
+      "sha1": "dbaf6a108a22343581b059a037a12fd58f5af8bd"
     },
     {
       "path": "overrides/config/justhammers.json",
@@ -1202,15 +1206,15 @@
     },
     {
       "path": "overrides/icon.png",
-      "sha1": "af6a4e4e8e7a459abdc9f18a455daf8b6c3cc14a"
+      "sha1": "7dadd3e0aefd876ec3d630e1941b10b7a17c91d5"
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "4b2510df13acb982c64b78ffad59ba8207e4e012"
+      "sha1": "eb3e1e55d41f73f2ad3d5207557518a19ed88f67"
     },
     {
       "path": "overrides/servers.dat",
-      "sha1": "b56b48435b8760c43dc2cf03ba490a968b509688"
+      "sha1": "7bef58f742b5a14f748c863cf73dfe861444b832"
     }
   ]
 }

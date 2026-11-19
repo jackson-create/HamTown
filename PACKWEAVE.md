@@ -1,4 +1,4 @@
-# SteamedHams Mothership
+# SteamedHams - The Pack
 
 **Minecraft 1.21.1 · NeoForge 21.1.252**, 89 mods, 5 resource packs, 4 shaders
 
