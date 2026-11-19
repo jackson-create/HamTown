@@ -1,0 +1,109 @@
+[
+  {
+    "soundEventId": "dsurround:item.blunt.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.blunt.swing",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.bow.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.bow.loose",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.bow.loose.skeleton",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.bow.pull",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.potion.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.shield.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.shield.use",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.sword.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.sword.swing",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.tool.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.tool.swing",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:item.utility.equip",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:netherbrick.breathing",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:seagulls",
+    "volumeScale": 0
+  },
+  {
+    "soundEventId": "dsurround:soulsand.laughter",
+    "volumeScale": 0
+  },
+  {
+    "action": "block",
+    "soundEventId": "minecraft:block.water.ambient"
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.chicken.ambient"
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.cow.ambient"
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.ender_dragon.death",
+    "volumeScale": 10
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.llama.ambient"
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.pig.ambient"
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.sheep.ambient"
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.wither.death",
+    "volumeScale": 10
+  },
+  {
+    "action": "cull",
+    "soundEventId": "minecraft:entity.wither.spawn",
+    "volumeScale": 10
+  }
+]

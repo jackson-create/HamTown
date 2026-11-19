@@ -1,0 +1,23 @@
+{
+  "name": "Dynamic Surroundings",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "H7fshfpD",
+      "slug": "dynamicsurroundingsfabric",
+      "versionId": "zNd5ltFs",
+      "versionNumber": "0.4.9",
+      "filename": "dynamicsurroundings-neoforge-1.21.1-0.4.9.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/H7fshfpD/versions/zNd5ltFs/dynamicsurroundings-neoforge-1.21.1-0.4.9.jar",
+      "sha1": "4749b3b71788d1fed79964a73a2244da39263189",
+      "sha512": "9a593580644f4a39809f541089cb20b145eef04f0f290a6dbf466c39ff7dca310bb8be0f33275b51a432751273351d7fad99a63a6b8238f7f7a0908b21eadc8b",
+      "fileSize": 15731430
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

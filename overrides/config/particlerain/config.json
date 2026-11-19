@@ -1,7 +1,7 @@
 {
   "configVersion": 8,
   "perf": {
-    "particleAmount": 1000,
+    "particleAmount": 1500,
     "particleStormDensity": 1.2,
     "particleDistance": 16,
     "surfaceRange": 80

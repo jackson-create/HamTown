@@ -1,6 +1,6 @@
 # SteamedHams - The Pack
 
-**Minecraft 1.21.1 · NeoForge 21.1.252**, 89 mods, 5 resource packs, 4 shaders
+**Minecraft 1.21.1 · NeoForge 21.1.252**, 88 mods, 5 resource packs, 4 shaders
 
 ## Contents
 
@@ -21,13 +21,14 @@
 - [Complementary Shaders - Unbound](https://modrinth.com/project/complementary-unbound) `r5.9.3`
 - [Continents](https://modrinth.com/project/continents) `1.1.14`
 - [CoroUtil](https://modrinth.com/project/coroutil) `1.21.0-1.3.8`
-- [Curios API](https://modrinth.com/project/curios) `9.5.1+1.21.1`
+- [Curios API](https://modrinth.com/project/curios) `9.6.0+1.21.1`
 - [Display Delight](https://modrinth.com/project/display-delight) `1.7.0`
 - [Dungeons and Taverns](https://modrinth.com/project/dungeons-and-taverns) `v4.4.4+mod`
 - [Dungeons and Taverns Nether Fortress Overhaul](https://modrinth.com/project/dungeons-and-taverns-nether-fortress-overhaul) `2.5.1+mod`
 - [Dungeons and Taverns Pillager Outpost Overhaul](https://modrinth.com/project/dungeons-and-taverns-pillager-outpost-overhaul) `v2.2+mod`
 - [Dungeons and Taverns Stronghold Overhaul](https://modrinth.com/project/dungeons-and-taverns-stronghold-overhaul) `v2.1.f+mod`
 - [Dungeons and Taverns Woodland Mansion Overhaul](https://modrinth.com/project/dungeons-and-taverns-woodland-mansion-overhaul) `v1.2+mod`
+- [Dynamic Surroundings](https://modrinth.com/project/dynamicsurroundingsfabric) `0.4.9`
 - [Entity Culling](https://modrinth.com/project/entityculling) `1.12.1`
 - [Envelope](https://modrinth.com/project/envelope) `0.8.2`
 - [Every Compat (Wood Good)](https://modrinth.com/project/every-compat) `1.21-2.11.59`
@@ -69,7 +70,6 @@
 - [No Man's Land](https://modrinth.com/project/no-mans-land) `1.6.3`
 - [NoFun DnT](https://modrinth.com/project/nofun-dnt) `1.1+mod`
 - [Not Enough Animations](https://modrinth.com/project/not-enough-animations) `1.12.7`
-- [Particle Rain](https://modrinth.com/project/particle-rain) `v4.0.3+1.21.1-neoforge`
 - [Platform](https://modrinth.com/project/platform) `1.4.2`
 - [Polymorph](https://modrinth.com/project/polymorph) `1.2.0+1.21.1`
 - [Portable Hole](https://modrinth.com/project/portable-hole) `v21.1.0-1.21.1-NeoForge`
@@ -85,7 +85,6 @@
 - [Simple Voice Chat](https://modrinth.com/project/simple-voice-chat) `neoforge-1.21.1-2.6.27`
 - [Sodium](https://modrinth.com/project/sodium) `mc1.21.1-0.8.13-neoforge`
 - [Sooty Chimneys](https://modrinth.com/project/sooty-chimneys) `1.3.5`
-- [Sound Physics Remastered](https://modrinth.com/project/sound-physics-remastered) `neoforge-1.21.1-1.5.2`
 - [Sounds](https://modrinth.com/project/sound) `2.4.22+lts+1.21.1-neoforge`
 - [Stony Cliffs Are Cool](https://modrinth.com/project/stony-cliffs-are-cool) `1.1.2`
 - [Storage Labels](https://modrinth.com/project/labels) `1.21-2.1.1`

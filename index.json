@@ -50,7 +50,7 @@
     },
     {
       "path": "content/mods/cloth-config.json",
-      "sha1": "a91200592815aa591d6453c8e149089304147d23"
+      "sha1": "6a885f1939714ddc58169d71837755a533044628"
     },
     {
       "path": "content/mods/continents.json",
@@ -62,7 +62,7 @@
     },
     {
       "path": "content/mods/curios.json",
-      "sha1": "ebcaa34f890c53b29967ba941fbeeb5dc786ca3f"
+      "sha1": "959ef20cb0794fb12822402c57db6b65926edc2d"
     },
     {
       "path": "content/mods/display-delight.json",
@@ -87,6 +87,10 @@
     {
       "path": "content/mods/dungeons-and-taverns.json",
       "sha1": "39a5a947f228cd08dd160c2168a9e46dde4a89f1"
+    },
+    {
+      "path": "content/mods/dynamicsurroundingsfabric.json",
+      "sha1": "f0d60dff96a87ea76a61a23d1bf9f29a1f48e144"
     },
     {
       "path": "content/mods/entityculling.json",
@@ -237,10 +241,6 @@
       "sha1": "4837660e0b49a3f2969b23935545ac25765d70bd"
     },
     {
-      "path": "content/mods/particle-rain.json",
-      "sha1": "90df3a1b85120df2cc650c6f95af0031744f0326"
-    },
-    {
       "path": "content/mods/platform.json",
       "sha1": "63086d419a197f8464b70a82a47b4156ddab526d"
     },
@@ -282,7 +282,7 @@
     },
     {
       "path": "content/mods/simple-voice-chat.json",
-      "sha1": "edc0b858315ac2bb288d3a11025341d7bfe52d1d"
+      "sha1": "767a92bf8f2886a7e2d9f64e29999e7eeb887abe"
     },
     {
       "path": "content/mods/sodium.json",
@@ -291,10 +291,6 @@
     {
       "path": "content/mods/sooty-chimneys.json",
       "sha1": "b2a35a51fac375c5497024ac575e12f81281d0e4"
-    },
-    {
-      "path": "content/mods/sound-physics-remastered.json",
-      "sha1": "9b4d828ba9d06350c07e49fa8cf18963ffff928a"
     },
     {
       "path": "content/mods/sound.json",
@@ -427,6 +423,10 @@
     {
       "path": "overrides/config/appleskin-client.toml",
       "sha1": "e3b64be4e4d635eaef5430a06d90a77600647477"
+    },
+    {
+      "path": "overrides/config/atmosfera.json",
+      "sha1": "2b728ff9f0d5322ae42340370711778d1bca5979"
     },
     {
       "path": "overrides/config/badoptimizations.txt",
@@ -569,6 +569,14 @@
       "sha1": "7a3f282c57e546464b54d617104e3e0c9744bb2a"
     },
     {
+      "path": "overrides/config/dsurround/dsurround.json",
+      "sha1": "5e3494af211f0051da477eb349a73ecd3edb21cb"
+    },
+    {
+      "path": "overrides/config/dsurround/soundconfig.json",
+      "sha1": "d34a0d6228c54fc3586fc4ebfe82f8085b8d254b"
+    },
+    {
       "path": "overrides/config/dungeonconfig/dungeonconfig.json5",
       "sha1": "bea84d597f9727a8644001d7019462fec9e52806"
     },
@@ -698,7 +706,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "2dbbc257f906acfadcba765785d2d5397dcfd7e6"
+      "sha1": "3d97e871b1168357d4aa52df324f1f1838f37ef2"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -811,6 +819,10 @@
     {
       "path": "overrides/config/jei/world/local/Test/lookupHistory.json",
       "sha1": "753356d5435ee0694f9321620e7d904d74f6eac9"
+    },
+    {
+      "path": "overrides/config/jei/world/local/Testimonial/lookupHistory.json",
+      "sha1": "43f7ad9bf46bb107cec32893e11d70761abfedcb"
     },
     {
       "path": "overrides/config/jei/world/local/Visual Test/lookupHistory.json",
@@ -942,7 +954,7 @@
     },
     {
       "path": "overrides/config/particlerain/config.json",
-      "sha1": "757308b9d13fcdce22c8fb1dd02001dd726164eb"
+      "sha1": "d42fac00a0c93954a0e5505975dd2a798659b723"
     },
     {
       "path": "overrides/config/particlerain/particles.json",
@@ -961,12 +973,16 @@
       "sha1": "9987d439d251563bd2532feffb032873bbca674f"
     },
     {
+      "path": "overrides/config/presencefootsteps/userconfig.json",
+      "sha1": "6c3ee6bf2344ae051118823ac1ba02da4f3eb76f"
+    },
+    {
       "path": "overrides/config/primal-common.toml",
       "sha1": "0b7b7979541ba8065372b1f970f8d36dc10991d3"
     },
     {
       "path": "overrides/config/quark-common.toml",
-      "sha1": "d75ee5f581dc25e9430d292a13155256a999e5e5"
+      "sha1": "080bde52b864fd0ddcb5000eb60b313b4b9874a1"
     },
     {
       "path": "overrides/config/refinedstorage-common.toml",
@@ -1030,7 +1046,7 @@
     },
     {
       "path": "overrides/config/sound_physics_remastered/sound_rates.properties",
-      "sha1": "d9da4fc5781bbc5063cbfa94e92fcb00915dd31e"
+      "sha1": "3e09ffdc1c16c5ab3e5e6ab353ea1dd7c2dbaf51"
     },
     {
       "path": "overrides/config/sound_physics_remastered/soundphysics.properties",
@@ -1210,7 +1226,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "eb3e1e55d41f73f2ad3d5207557518a19ed88f67"
+      "sha1": "dc228cf46f98e131a6a0b14a56047e3052267077"
     },
     {
       "path": "overrides/servers.dat",
