@@ -1,6 +1,6 @@
 # SteamedHams - The Pack
 
-**Minecraft 1.21.1 · NeoForge 21.1.252**, 88 mods, 5 resource packs, 4 shaders
+**Minecraft 1.21.1 · NeoForge 21.1.267**, 88 mods, 5 resource packs, 4 shaders
 
 ## Contents
 
