@@ -6,7 +6,7 @@
     },
     {
       "path": "content/mods/amendments.json",
-      "sha1": "5b0a449655e3836aa68a07fdba61e0fefee03419"
+      "sha1": "ef857e078a33980212813ab505de33a6f54ff6ae"
     },
     {
       "path": "content/mods/appleskin.json",
@@ -15,6 +15,10 @@
     {
       "path": "content/mods/architectury-api.json",
       "sha1": "8fa521dac26529fd9dcce4dc19b02ab97c062cbf"
+    },
+    {
+      "path": "content/mods/backported-spears.json",
+      "sha1": "65b9569d819a7ae9ec944676b3be8317d8ea8df2"
     },
     {
       "path": "content/mods/badoptimizations.json",
@@ -94,7 +98,7 @@
     },
     {
       "path": "content/mods/entityculling.json",
-      "sha1": "c8b224c55f6a18ff760a739522785d73d6a9ee43"
+      "sha1": "1e7d35f6672076a2a4b58ad419f8fb0d548c43e1"
     },
     {
       "path": "content/mods/envelope.json",
@@ -102,7 +106,7 @@
     },
     {
       "path": "content/mods/every-compat.json",
-      "sha1": "cb84f5c45eb2e949e972a1c903e64b4ac81dae68"
+      "sha1": "9d320411c343272908dcd9f063a56404b5fd62b6"
     },
     {
       "path": "content/mods/explosive-enhancement-forge.json",
@@ -134,11 +138,7 @@
     },
     {
       "path": "content/mods/geckolib.json",
-      "sha1": "e799f06eb2392a0a4cfc592990f33e42061e30ed"
-    },
-    {
-      "path": "content/mods/goated.json",
-      "sha1": "a1ac2abe633643c475a3fef9e88561c751a315a1"
+      "sha1": "cc313599efcd09d60e669992727e197b8645df70"
     },
     {
       "path": "content/mods/gravestone-mod.json",
@@ -166,7 +166,7 @@
     },
     {
       "path": "content/mods/it-takes-a-pillage-continuation.json",
-      "sha1": "6113eb22b22a7c127eb5ad85a9f29417b34b0bc1"
+      "sha1": "13fea1a6b0dc499d339054d37ee3d6624d843a4b"
     },
     {
       "path": "content/mods/jade.json",
@@ -214,7 +214,7 @@
     },
     {
       "path": "content/mods/moonlight.json",
-      "sha1": "7d35901fd0c3ca30f120b8b6a131a72c79695d96"
+      "sha1": "5a4a0a838cde63027fd4c2497602cc763f65c2d2"
     },
     {
       "path": "content/mods/mouse-tweaks.json",
@@ -266,7 +266,7 @@
     },
     {
       "path": "content/mods/reliable-backpacks.json",
-      "sha1": "149fe33d099689ab0f6a8a2f8a699a069c56581b"
+      "sha1": "99a9fe933f75e73c9ebce76426598f9502050dfd"
     },
     {
       "path": "content/mods/resourceful-lib.json",
@@ -297,6 +297,10 @@
       "sha1": "0aa0b5497c6fdb95de6ec53cad34ba384bf1a9eb"
     },
     {
+      "path": "content/mods/spawn-mod.json",
+      "sha1": "db291c96ca3bafedc32e20244f2a82f78a8a26a2"
+    },
+    {
       "path": "content/mods/stony-cliffs-are-cool.json",
       "sha1": "ebdc8ab4aaf57201bfcb244def5e301130b64d58"
     },
@@ -306,7 +310,11 @@
     },
     {
       "path": "content/mods/supplementaries.json",
-      "sha1": "400d9145364c85acd13e6196eb7bc98c292e25fa"
+      "sha1": "86d7fa17b835591fb1c374b56ab4159edd48e1a7"
+    },
+    {
+      "path": "content/mods/teallib.json",
+      "sha1": "f851f560d067fb5ce4cf43bfe0e77b5aa5f4c499"
     },
     {
       "path": "content/mods/terrablender.json",
@@ -326,7 +334,7 @@
     },
     {
       "path": "content/mods/universal-sawmill.json",
-      "sha1": "116abe9b047e0bbe8fc18395cfca477e8fa41524"
+      "sha1": "cd9d74c8c468bf13a4821ba56100b109ae739aa0"
     },
     {
       "path": "content/mods/vanity-aesthetic-armory.json",
@@ -414,11 +422,11 @@
     },
     {
       "path": "overrides/config/amendments-client.toml",
-      "sha1": "a55c09c88cdd48002672b8663948015d9c088295"
+      "sha1": "5516af6c5b314b83beb2c1a96719801f57938b57"
     },
     {
       "path": "overrides/config/amendments-common.toml",
-      "sha1": "1fdeec033c39afcdc2ac33cd5a63aa50913dac4c"
+      "sha1": "05aeee74f2eb3358564f702d11411ba1b653daaa"
     },
     {
       "path": "overrides/config/appleskin-client.toml",
@@ -570,7 +578,7 @@
     },
     {
       "path": "overrides/config/dsurround/dsurround.json",
-      "sha1": "5e3494af211f0051da477eb349a73ecd3edb21cb"
+      "sha1": "fe44e33f907fb9272b28666b67497a26f7439e4d"
     },
     {
       "path": "overrides/config/dsurround/soundconfig.json",
@@ -606,7 +614,7 @@
     },
     {
       "path": "overrides/config/everycomp-entries.toml",
-      "sha1": "210b7d49aa5e528331af1c24853ae59a36a021d4"
+      "sha1": "8b98ace896471e92b44b1e8370c8a334d3890e79"
     },
     {
       "path": "overrides/config/everycomp-hazardous.toml",
@@ -706,7 +714,7 @@
     },
     {
       "path": "overrides/config/iris.properties",
-      "sha1": "3d97e871b1168357d4aa52df324f1f1838f37ef2"
+      "sha1": "7e8566301f9bea270a420426a119be6e714709b8"
     },
     {
       "path": "overrides/config/jade/hide-blocks.json",
@@ -722,11 +730,11 @@
     },
     {
       "path": "overrides/config/jade/plugins.json",
-      "sha1": "d68bb636f703ef83cd379ed2b09e2e3f79c2c8a2"
+      "sha1": "4ca2bce0b58ca2cb7f7a5d54ec8e5b95e3dbb3d8"
     },
     {
       "path": "overrides/config/jade/sort-order.json",
-      "sha1": "4bc5e16395ca58e14c6a39739e3d00baa258d74f"
+      "sha1": "075fbaa2ffecb7bc47565bed5f809cd9e80a321e"
     },
     {
       "path": "overrides/config/jei-server.toml",
@@ -758,7 +766,7 @@
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-mod-sort-order.ini",
-      "sha1": "ce4aaa6806ac6bb891eb06b2105addc163bd3861"
+      "sha1": "ef296d571d536d406c35be1073bf2f24b9ddd869"
     },
     {
       "path": "overrides/config/jei/client/ingredient-list-type-sort-order.ini",
@@ -766,7 +774,7 @@
     },
     {
       "path": "overrides/config/jei/client/recipe-category-sort-order.ini",
-      "sha1": "872ce04e8767961106617e20540b9387a87ca560"
+      "sha1": "e337933e9429ece3431bb180cc7ba487ef399461"
     },
     {
       "path": "overrides/config/jei/server/world/default/jei-server.ini",
@@ -783,6 +791,10 @@
     {
       "path": "overrides/config/jei/world/local/Anderron/lookupHistory.json",
       "sha1": "8d1ecc9232844eb3c23fe8be51b7f0794a4d6e8c"
+    },
+    {
+      "path": "overrides/config/jei/world/local/Bug Testing/lookupHistory.json",
+      "sha1": "c4b2d0880721affb59a84ec195f170feb35105d4"
     },
     {
       "path": "overrides/config/jei/world/local/Further Tree Test___/lookupHistory.json",
@@ -817,6 +829,10 @@
       "sha1": "c0ca2304a5ff0f4976236a52731bea3d98a4aa81"
     },
     {
+      "path": "overrides/config/jei/world/local/Test Town/lookupHistory.json",
+      "sha1": "60083c61c7ba86d186e967e1958c9044900295db"
+    },
+    {
       "path": "overrides/config/jei/world/local/Test/lookupHistory.json",
       "sha1": "753356d5435ee0694f9321620e7d904d74f6eac9"
     },
@@ -830,7 +846,7 @@
     },
     {
       "path": "overrides/config/jei/world/server/Steamed Hams (150_251_116_89 19000)/lookupHistory.json",
-      "sha1": "dbaf6a108a22343581b059a037a12fd58f5af8bd"
+      "sha1": "ebfe0c2d6aa09d4cf24eadb61a4b3d3679dd7642"
     },
     {
       "path": "overrides/config/justhammers.json",
@@ -914,7 +930,7 @@
     },
     {
       "path": "overrides/config/neoforge-common.toml",
-      "sha1": "2912b55694531e5ab90981a12f1844439d969e04"
+      "sha1": "5a9caac83eb118eaf22abc37389f7b743e475fe1"
     },
     {
       "path": "overrides/config/neoforge-server.toml",
@@ -1017,12 +1033,16 @@
       "sha1": "6a2fc1444fd5ab56a1379e6dc747731bbe3755ec"
     },
     {
+      "path": "overrides/config/sodium-fingerprint.json",
+      "sha1": "d1ac955609c09ec4a5f0d022a7fe6ea9abf03404"
+    },
+    {
       "path": "overrides/config/sodium-mixins.properties",
       "sha1": "5455463ee999b945c1cff8ae90f2b705e19fb86c"
     },
     {
       "path": "overrides/config/sodium-options.json",
-      "sha1": "8631bfa24087105341e81cd5e65481fcc44d1fdb"
+      "sha1": "927fcb83865c9fc47c64b6f9a3dc86341bb938e4"
     },
     {
       "path": "overrides/config/solclassic-server.toml",
@@ -1071,6 +1091,18 @@
     {
       "path": "overrides/config/sounds/world.json",
       "sha1": "8a152dee53a944ed55614ff7ad036eb354a6a809"
+    },
+    {
+      "path": "overrides/config/spawn-client.toml",
+      "sha1": "54232eca019e04958d83165c63380b7b8bd80a36"
+    },
+    {
+      "path": "overrides/config/spawn-server.toml",
+      "sha1": "45d1a60f44098bf63d23b039e4ef40bac733baec"
+    },
+    {
+      "path": "overrides/config/spears-common.toml",
+      "sha1": "cd9e4312f81b788665a8a6b2d91aa43a3d39a812"
     },
     {
       "path": "overrides/config/stormiespiders/non-climbable-blocks.json",
@@ -1226,7 +1258,7 @@
     },
     {
       "path": "overrides/options.txt",
-      "sha1": "dc228cf46f98e131a6a0b14a56047e3052267077"
+      "sha1": "f8bb06409a38299fb6b87f6b1346a294ecfbe594"
     },
     {
       "path": "overrides/servers.dat",

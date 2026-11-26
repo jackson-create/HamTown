@@ -13,7 +13,7 @@ glintSpeed:0.5
 glintStrength:0.75
 prioritizeChunkUpdates:0
 fullscreen:false
-gamma:0.5
+gamma:0.3
 graphicsMode:0
 guiScale:0
 maxFps:120
@@ -129,8 +129,8 @@ key_iris.keybind.shaderPackSelection:key.keyboard.o
 key_iris.keybind.wireframe:key.keyboard.unknown
 key_quark.keybind.autorun:key.keyboard.unknown
 key_quark.keybind.back:key.mouse.4
-key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.camera_mode:key.keyboard.f12
+key_supplementaries.keybind.quiver:key.keyboard.v
 key_quark.keybind.transfer_insert:key.keyboard.unknown
 key_quark.keybind.transfer_extract:key.keyboard.unknown
 key_quark.keybind.shift_lock:key.keyboard.unknown
@@ -242,14 +242,14 @@ key_key.shouldersurfing.enter_third_person_back:key.keyboard.unknown
 key_key.shouldersurfing.enter_shoulder_surfing:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 soundCategory_master:1.0
-soundCategory_music:0.7077464788732394
+soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
 soundCategory_block:1.0
 soundCategory_hostile:1.0
 soundCategory_neutral:1.0
 soundCategory_player:1.0
-soundCategory_ambient:0.7535211267605634
+soundCategory_ambient:0.5580985915492958
 soundCategory_voice:1.0
 modelPart_cape:true
 modelPart_jacket:true

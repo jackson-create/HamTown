@@ -8,13 +8,13 @@
     "modrinth": {
       "id": "QOJOg1gE",
       "slug": "it-takes-a-pillage-continuation",
-      "versionId": "m8qvxZIS",
+      "versionId": "Oha8grb6",
       "versionNumber": "neoforge-1.0.13+mc1.21.1",
       "filename": "takesapillage-neoforge-1.0.13+mc1.21.1.jar",
-      "downloadUrl": "https://cdn.modrinth.com/data/QOJOg1gE/versions/m8qvxZIS/takesapillage-neoforge-1.0.13%2Bmc1.21.1.jar",
-      "sha1": "5bd588f08b8a6e783d8dc20860373e8b01f8e2df",
-      "sha512": "cc0d566d80f6da915795382561f0c57d611f0c1a28f82520b6606850cb282dc7168becfdea485076a0d45631bfbaaa7287ebc27a2824a94b50ab619a51aefeab",
-      "fileSize": 2785614
+      "downloadUrl": "https://cdn.modrinth.com/data/QOJOg1gE/versions/Oha8grb6/takesapillage-neoforge-1.0.13%2Bmc1.21.1.jar",
+      "sha1": "af7f49a9856baf944a297c1f88a201ff3b31756a",
+      "sha512": "e121f741a8f6e6f3b76fcb7abb08076a48c44e6b566e4b95096615139af6a56dbfeb0b4a49a55e0a1f4d8bb40f78c4ac9fa7408996f4bcedef3d94f5ebb9dbbe",
+      "fileSize": 2786052
     }
   },
   "dependents": [],

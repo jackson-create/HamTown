@@ -220,19 +220,19 @@
   "compassAndClockOptions": {
     // Style of compass rendering, or NONE for no compass display
     // Values: NONE, OPAQUE, TRANSPARENT, OPAQUE_WITH_INDICATOR, TRANSPARENT_WITH_INDICATOR, ROSE_1, ROSE_2, ROSE_3, default: "TRANSPARENT_WITH_INDICATOR"
-    "compassStyle": "TRANSPARENT_WITH_INDICATOR",
+    "compassStyle": "TRANSPARENT",
     // Style of clock rendering, or NONE for no clock display
     // Values: NONE, TEXT, POCKET_WATCH, POCKET_WATCH_WITH_TEXT, default: "POCKET_WATCH"
-    "clockStyle": "POCKET_WATCH",
+    "clockStyle": "NONE",
     // Look of the pocket watch: CLASSIC (a worn round watch) or SQUARE (a pixel art square watch)
     // Values: CLASSIC, SQUARE, default: "CLASSIC"
-    "watchStyle": "CLASSIC",
+    "watchStyle": "SQUARE",
     // Shows the compass and pocket watch in a side or corner of the screen while one is in the hot bar or off hand, rather than above the crosshair while held
     // Default: false
-    "showInMargin": false,
+    "showInMargin": true,
     // The side or corner of the screen for the compass and pocket watch when shown there
     // Values: TOP_LEFT, TOP, TOP_RIGHT, LEFT, RIGHT, BOTTOM_LEFT, BOTTOM, BOTTOM_RIGHT, default: "LEFT"
-    "marginPosition": "LEFT",
+    "marginPosition": "TOP_LEFT",
     // Scales the display by the specified amount
     // Range: 0.5 - 4, step: 0.1, default: 1.0
     "scale": 1.0

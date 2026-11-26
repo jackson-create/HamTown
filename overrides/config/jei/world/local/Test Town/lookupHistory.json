@@ -1,0 +1,11 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"crabbersdelight:crab_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:surf_and_turf"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:crab_legs"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:fish_stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:shrimp_skewer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:cooked_frog_leg"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:fried_fish"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"crabbersdelight:fish_sandwich"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
